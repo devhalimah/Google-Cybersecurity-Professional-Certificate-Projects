@@ -15,7 +15,7 @@
     <li><pre>ls -a command - To find hidden files in the directory</pre></li>
   </ul>
   The combination of commands (2) and (3) above <i>(i.e. ls -al)</i> will list the contents and permissions of hidden files in the directory.
-  
+  [image]
 </p>
 
 <b>Step 2 (Description of the permissions string above):</b>
@@ -30,7 +30,7 @@
 <u>
   <li>The file "project_k.txt" has write permissions for others which is against the organization's policy. To remove the write command, I entered the command below:
     <pre>chmod o-w project_k.txt</pre></li>
-  <li>Furthermore, the file "project_m.txt" is a restricted file and should not be readable or writable, even by the group.<br>I entered the command below to change the permissions of the project_m.txt file so that the group doesn’t have read or write permissions.
+  <li>Furthermore, the file "project_m.txt" is a restricted file and should not be readable or writable, even by the group. I entered the command below to change the permissions of the project_m.txt file so that the group doesn’t have read or write permissions.
     <pre>chmod g-r,g-w project_m.txt</pre></li>
   </u>
 </p>
