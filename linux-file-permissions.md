@@ -45,5 +45,13 @@
 
 <b>Step 5 (Changing directory permissions):</b>
 <p>
-  
+  [image]
+  The files and directories in the projects directory belong to the researcher2 user. So, only this user is meant to have access to the drafts directory and its contents.<br> As a Linux system administrator, I used the command below to modify the permissions accordingly:
+  <pre>chmod g-x drafts</pre>
+  This command removes execute permission for group, allowing only researcher2 user to have access to the drafts directory and its contents.
+</p>
+
+<b>Summary:</b>
+<p>
+ As a Linux system administrator and cybersecurity professional, I have successfully examined existing permissions on the organization's file system, modified the permissions to authorize appropriate users and removed all unauthorized access. This implementation of least privilege principle has further strengthened the organization's security system and posture.
 </p>
