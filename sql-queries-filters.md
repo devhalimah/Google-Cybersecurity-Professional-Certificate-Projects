@@ -112,3 +112,9 @@ I'll use the following SQL filters to create a query which identifies all employ
 <img width="960" alt="image" src="https://github.com/devhalimah/Google-Cybersecurity-Professional-Certificate-Projects/assets/64546668/fd0a4bb6-fec7-49a0-9a8e-be5624d26695">
 </p>
 </p>
+
+-----------------------------------------------------------------------------------------------------------------------------
+<b>Summary:</b>
+<p>
+ As a security professional, I have successfully retrieved after-hours failed login attempts, retrieved login attempts on specific dates and those outside Mexico, in addition to retrieving employees data in various departments.<br>This examination of organization’s data using SQL filters has allowed me to retrieve records from different datasets and investigate potential security issues.
+</p>
