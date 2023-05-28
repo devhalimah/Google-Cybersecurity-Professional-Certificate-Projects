@@ -40,13 +40,13 @@
   Since the research team has archived .project_x.txt, it is why it’s a hidden file and should not have write permissions for anyone, but the user and group should be able to read the file.<br> To assign the appropriate authorization for this file as the system administrator, I entered the command below:
   <pre>chmod u-w,g-w,g+r .project_x.txt</pre>
   <img width="960" alt="image" src="https://github.com/devhalimah/Google-Cybersecurity-Professional-Certificate-Projects/assets/64546668/6198d42e-1ab2-4a3e-a9ca-20ee7873dca0">
-  This will restrict unauthorized access and strengthen security on the system.
+  <br>This will restrict unauthorized access and strengthen security on the system.
 </p>
 
 <b>Step 5 (Changing directory permissions):</b>
 <p>
   <img width="960" alt="image" src="https://github.com/devhalimah/Google-Cybersecurity-Professional-Certificate-Projects/assets/64546668/92bc763f-0053-48f8-b24a-0e62f689f305">
-  The files and directories in the projects directory belong to the researcher2 user. So, only this user is meant to have access to the drafts directory and its contents.<br> As a Linux system administrator, I used the command below to modify the permissions accordingly:
+  <br>The files and directories in the projects directory belong to the researcher2 user. So, only this user is meant to have access to the drafts directory and its contents.<br> As a Linux system administrator, I used the command below to modify the permissions accordingly:
   <pre>chmod g-x drafts</pre>
   This command removes execute permission for group, allowing only researcher2 user to have access to the drafts directory and its contents.
 </p>
