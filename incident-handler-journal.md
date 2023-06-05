@@ -8,5 +8,4 @@
 <p>Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.</p>
 
 <h2>Solution: Incident Documentation (Journaling)</h2>
-  <b>
-  </b>
+ 
