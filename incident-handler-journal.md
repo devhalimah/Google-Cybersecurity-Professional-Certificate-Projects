@@ -9,3 +9,4 @@
 
 <h2>Solution: Incident Documentation (Journaling)</h2>
  
+<img width="407" alt="image" src="https://github.com/devhalimah/Google-Cybersecurity-Professional-Certificate-Projects/assets/64546668/1558da49-4e6e-43c6-a30b-9096e66c5052">
