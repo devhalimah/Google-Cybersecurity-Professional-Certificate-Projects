@@ -63,7 +63,6 @@ To update the original file that was used to create the ip_addresses list, I add
 
 <p>After the .join() method, I built the with statement that rewrites the original file using the "w" parameter when calling the open() function. This is to delete the contents in the original file and replace it with the revised list of IP addresses.</p>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>Summary</h2>
 <p>
   In this project, I have successfully developed an algorithm that involves opening files and parsing their contents. It checks whether the allow list contains any IP addresses identified on the remove list, and removes those IP addresses from the file containing the allow list.
